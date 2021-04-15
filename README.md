@@ -8,9 +8,9 @@ pip install -r requirements.txt
 ```
 
 ## How to use
-You can download the pre-trained network from [here](https://drive.google.com/drive/folders/1xHLtx9laqSTO_8LOFCdOBEkouMpbkAFM?usp=sharing).
+You can download the pre-trained network from [here](https://drive.google.com/drive/folders/1nRcNmFYkrkG4d5UYQg75j6ZDzi5Gw4oN?usp=sharing).
 The files should be placed in project directory.
-The input video should be located in /video folder with it's filename of 'vi[number].mp4' or 'no[number].mp4'. You can download sample videos in [here](https://drive.google.com/drive/folders/1xHLtx9laqSTO_8LOFCdOBEkouMpbkAFM?usp=sharing).
+The input video should be located in /video folder with it's filename of 'vi[number].mp4' or 'no[number].mp4'. You can download sample videos in [here](https://drive.google.com/drive/folders/1PcerEu2eLJigjeBUmm5zHHTa7fS3_1W7?usp=sharing).
 Then, run
 ```bash
 python violence_inference.py
