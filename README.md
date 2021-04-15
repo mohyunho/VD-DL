@@ -8,9 +8,12 @@ pip install -r requirements.txt
 ```
 
 ## How to use
-Make sure python3 and pip is installed. Then, install cv2 and numpy, matplotlib, keras and h5py.
+You can download the pre-trained network from [here](https://drive.google.com/drive/folders/1xHLtx9laqSTO_8LOFCdOBEkouMpbkAFM?usp=sharing).
+The files should be placed in project directory.
+The input video should be located in /video folder with it's filename of 'vi[number].mp4' or 'no[number].mp4'. You can download sample videos in [here](https://drive.google.com/drive/folders/1xHLtx9laqSTO_8LOFCdOBEkouMpbkAFM?usp=sharing).
+Then, run
 ```bash
-
+python violence_inference.py
 ```
 
 Possible outputs: 
